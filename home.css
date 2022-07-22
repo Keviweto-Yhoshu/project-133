@@ -1,0 +1,21 @@
+
+ body{
+    background-size: cover;
+    background-position: center;
+ }
+ .link{
+    background-color: black;
+     color: darkred;
+     width: 90px;
+     border-radius: 10px;
+     float:left;
+     
+ }
+ .heading{
+     width:100%;
+     font-size: large;
+     margin-top: 10px;
+ }
+ .heading:hover{
+     font-size: larger;
+ }
